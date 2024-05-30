@@ -9,7 +9,7 @@
 <img src = "https://raw.githubusercontent.com/vinita2003/construction/master/About.png" length = 330 width = 440>
 
 # Service
-<img src = "https://raw.githubusercontent.com/vinita2003/construction/master/Service.png" length = 330 width = 440>
+<img src = "https://raw.githubusercontent.com/vinita2003/construction/master/Services.png" length = 330 width = 440>
 
 # Team
 <img src = "https://raw.githubusercontent.com/vinita2003/construction/master/Team.png" length = 330 width = 440>
