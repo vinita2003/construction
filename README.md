@@ -2,6 +2,23 @@
 
 <div align="center"><h1>Construction</h1>
 
+# Home
+<img src = "https://raw.githubusercontent.com/vinita2003/construction/master/Home.png" length = 330 width = 440>
+
+# About
+<img src = "https://raw.githubusercontent.com/vinita2003/construction/master/About.png" length = 330 width = 440>
+
+# Service
+<img src = "https://raw.githubusercontent.com/vinita2003/construction/master/Service.png" length = 330 width = 440>
+
+# Team
+<img src = "https://raw.githubusercontent.com/vinita2003/construction/master/Team.png" length = 330 width = 440>
+
+# Contact Us
+<img src = "https://raw.githubusercontent.com/vinita2003/construction/master/Contact Us.png" length = 330 width = 440>
+
+
+
 
 
 
