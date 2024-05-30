@@ -1,7 +1,8 @@
 
 
 <div align="center"><h1>Construction</h1>
-
+The Bootstrap S Project is a responsive website template built using Bootstrap 5.3.0-alpha1 framework, designed for a construction or architecture firm named BuildCon. It features a clean and modern design with a fixed-top navigation bar, carousel for showcasing project highlights, and sections for About, Services, Portfolio, Team, and Contact. Each section includes compelling visuals and content, highlighting the firm's services, projects, and team members. The website is fully responsive and includes interactive elements like buttons and forms, making it easy for users to navigate and engage with the content. The footer includes copyright information. This project aims to provide an informative and visually appealing online presence for a construction-related business.
+  
 # Home
 <img src = "https://raw.githubusercontent.com/vinita2003/construction/master/Home.png" length = 330 width = 440>
 
